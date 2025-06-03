@@ -1,10 +1,10 @@
 # Tuga - Linguagem de Programação em Português
 
-O Tuga é um compilador e máquina virtual para uma linguagem de programação em português, desenvolvido como parte de um projeto acadêmico para a disciplina de Conceitos de Programação de Linguagens.
+O Tuga é um compilador e máquina virtual para uma linguagem de programação em português, desenvolvido como parte de um projeto para a Unidade Curricular de Compiladores.
 
 ## Descrição
 
-Tuga é uma linguagem de programação com sintaxe em português, projetada para fins educacionais. O projeto inclui um compilador completo que traduz o código fonte Tuga em bytecode, e uma máquina virtual que executa esse bytecode.
+Tuga é uma linguagem de programação com sintaxe em português. O projeto inclui um compilador completo que traduz o código fonte Tuga em bytecode, e uma máquina virtual que executa esse bytecode.
 
 ## Componentes do Projeto
 
